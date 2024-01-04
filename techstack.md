@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 yuriportfolio/dub is built on the following main stack:
+
 - [Stripe](https://stripe.com) – Payment Services
 - [Cloudinary](http://cloudinary.com/) – Image Processing and Management
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
@@ -16,11 +17,13 @@ yuriportfolio/dub is built on the following main stack:
 - [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 yuriportfolio/dub is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
 - <img width='25' height='25' src='https://img.stackshare.io/service/304/default_d0fb82038ec18f67ca33bf6ce0df0bffb427e94f.png' alt='Cloudinary'/> [Cloudinary](http://cloudinary.com/) – Image Processing and Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
@@ -35,14 +38,15 @@ yuriportfolio/dub is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/8680/Logo_Symbol_White.jpg' alt='Prisma'/> [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [yuriportfolio/dub](https://github.com/yuriportfolio/dub)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|27<br/>Tools used|11/09/23 <br/>Report generated|
+|27<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -219,4 +223,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
